@@ -57,3 +57,6 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## References
+1. S. Debernardi, H. O’Brien, A. S. Algahmdi, N. Malats, G. D. Stewart, M. Plješa-Ercegovac, E. Costello, W. Greenhalf, A. Saad, R. Roberts, A. Ney, S. P. Pereira, H. M. Kocher, S. Duffy, O. Blyuss, and T. Crnogorac-Jurcevic, “A combination of urinary biomarker panel and PancRISK score for earlier detection of pancreatic cancer: A case–control study,” PLOS Medicine, vol. 17, no. 12, 2020. 
