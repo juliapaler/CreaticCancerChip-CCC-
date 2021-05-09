@@ -1,3 +1,5 @@
 /cert
 /kaggle/input
 /.git
+/node*
+package-lock.json

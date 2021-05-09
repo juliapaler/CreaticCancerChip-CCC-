@@ -1,0 +1,25 @@
+{
+  "name": "creaticcancerchip-ccc-",
+  "version": "1.0.0",
+  "description": "Pancreatic cancer, specifically Pancreatic ductal adenocarcinoma (PDAC) is an extremely harmful disease that has a survival rate of ~10% after 5 years of being diagnosed [1]. It is important that clinicians are able to diagnose the disease as early as possible for effective treatment. There are no useful biomarkers for detection in its the cancer's early stages; **however,** a recent study has found a promising panel of biomarkers for earlier detection using urine analysis [1].",
+  "main": "app.js",
+  "dependencies": {
+    "pg": "^8.6.0",
+    "sequelize-cockroachdb": "^6.0.0-beta.0",
+    "sequelize": "^6.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliapaler/CreaticCancerChip-CCC-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliapaler/CreaticCancerChip-CCC-/issues"
+  },
+  "homepage": "https://github.com/juliapaler/CreaticCancerChip-CCC-#readme"
+}
