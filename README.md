@@ -4,8 +4,6 @@ Pancreatic cancer, specifically Pancreatic ductal adenocarcinoma (PDAC) is an ex
 Enter Creatic Cancer Chip (CCC), our medical device incorporates an end-to-end microfluidic lab on a chip that takes a urine sample and runs a full laboratory analysis.
 We use standard ELISA assays with fluorophore conjugated antigens in a spinning chamber for the reaction. We then use machine learning algorithms to determine a predictive diagnosis in order to guide clinicians to early measure treatment options. All of the inferences/patient data are then sent to our webapp and stored on our CockroachDB database for secure and safe storage.
 
-## Inspiration
-I was reading papers and thought this was cool.
 
 ## Demo
 [Try out the webserver!](https://www.youtube.com/watch?v=6n3pFFPSlW4)
